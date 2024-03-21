@@ -12,4 +12,6 @@ public class Usuario {
         this.rg = rg;
         this.genero = genero;
     }
+
+    
 }
